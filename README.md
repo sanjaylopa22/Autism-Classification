@@ -14,4 +14,5 @@ VGG16, ResNet-50, InceptionV3, EfficientNet-B0, and EfficientNet-B7
 ## How to run
 
 pip install -r requirements.txt
+
 python src/Autism_Classification.ipynb
